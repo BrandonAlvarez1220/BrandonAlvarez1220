@@ -22,7 +22,7 @@ Hi , I'm Brandon Alvarez and I'm a computer systems engineering student at ESCOM
 🔭 Interested in Full Stack, Machine Learning , Mobile Apps and software development. 
 🌱 Currently learning more about NLP and Backend technologies.
 💬 Main languages: Python and Java.
-📫 How to contact me: email me at [brandonag1220@gmail.com](mailto:brandonag1220@gmail.com)
+📫 How to contact me: brandonag1220@gmail.com
 </pre>
 
 
