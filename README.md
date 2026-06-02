@@ -26,9 +26,9 @@ I care a lot about understanding the *why* behind things — not just making stu
 <pre>
 🔭 Building:  Doxi — a SaaS for Mexican accountants (CFDI validation + invoice data extraction)
 🤖 Focus:     ML, LLMs, NLP, Generative AI, RAG, and AI Agents
-🌱 Learning:  XGBoost, FastAPI, LLM fine-tuning, and LoRA on Stable Diffusion
+🌱 Learning:  LLM fine-tuning and LoRA on Stable Diffusion
 💼 Stack:     Python · FastAPI · React + TypeScript + Tailwind · SQL Server · .NET/C#
-🎯 Goal:      Build scalable, independent software products — not just climb a corporate ladder
+🎯 Goal:      Build scalable, independent software products
 📫 Contact:   brandonag1220@gmail.com
 </pre>
 
