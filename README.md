@@ -87,14 +87,4 @@ I care a lot about understanding the *why* behind things — not just making stu
 
 ---
 
-## 💫 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrandonAlvarez1220&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAlvarez1220&layout=compact&theme=dark)](https://github.com/BrandonAlvarez1220/github-readme-stats)
-
-[![BrandonAlvarez1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonAlvarez1220&show_icons=true&theme=dark)](https://github.com/BrandonAlvarez1220/github-readme-stats)
-
----
-
 Last Edited on: 06/02/2025
