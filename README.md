@@ -1,9 +1,9 @@
 <div id="hey" align="center">
   <h1>
-    Hi!
-    I'm Brandon Alvarez
+    Hi! I'm Brandon Alvarez
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
+  <p>Fullstack Developer → AI/ML Engineer in progress 🤖</p>
 </div>
 
 <div id="badges" align="center">
@@ -15,49 +15,86 @@
   </a>
 </div>
 
+---
 
-## 👨About Me:
-Hi , I'm Brandon Alvarez and I'm a computer systems engineering student at ESCOM, currently in 8th semester passionate about technology and constantly learning.
+## 👨 About Me
+
+Systems engineer based in **Mexico City 🇲🇽**, currently working as a fullstack developer while actively transitioning into **AI/ML and independent software development**.
+
+I care a lot about understanding the *why* behind things — not just making stuff work, but understanding why it works.
+
 <pre>
-🔭 Interested in Full Stack, Machine Learning , Mobile Apps and software development. 
-🌱 Currently learning more about NLP and Backend technologies.
-💬 Main languages: Python and Java.
-📫 How to contact me: brandonag1220@gmail.com
+🔭 Building:  Doxi — a SaaS for Mexican accountants (CFDI validation + invoice data extraction)
+🤖 Focus:     ML, LLMs, NLP, Generative AI, RAG, and AI Agents
+🌱 Learning:  XGBoost, FastAPI, LLM fine-tuning, and LoRA on Stable Diffusion
+💼 Stack:     Python · FastAPI · React + TypeScript + Tailwind · SQL Server · .NET/C#
+🎯 Goal:      Build scalable, independent software products — not just climb a corporate ladder
+📫 Contact:   brandonag1220@gmail.com
 </pre>
 
+---
 
-## 🛠️ Languages and Tools:
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Doxi** | SaaS for Mexican accountants — CFDI validation & mixed-format invoice extraction | FastAPI · React/TS · Supabase · Railway · Vercel |
+| **AI Text Detector** | Detects AI-generated text with ~99.7% accuracy | Logistic Regression · TF-IDF · FastAPI · React |
+| **Gold Price Predictor** | Time-series forecasting with proper temporal splitting | XGBoost · Lag features · Python |
+
+---
+
+## 🛠️ Languages and Tools
+
+**AI / ML**
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/4a0dce0a-be5d-4d11-a913-f53f9e5abf16.png" title="Sklearn" alt="sklearn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/4a0dce0a-be5d-4d11-a913-f53f9e5abf16.png" title="Scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
 </div>
- 
 
-  
-## 💫  My Stats:
+**Backend**
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+**Frontend**
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+</div>
+
+**Tools & Infra**
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+## 💫 My Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrandonAlvarez1220&theme=dark)](https://git.io/streak-stats)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAlvarez1220&layout=compact&theme=dark)](https://github.com/BrandonAlvarez1220/github-readme-stats)
 
-[![BrandonAlvarez1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonAlvarez1220&show_icons=true&theme=dark))](https://github.com/BrandonAlvarez1220/github-readme-stats)
+[![BrandonAlvarez1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonAlvarez1220&show_icons=true&theme=dark)](https://github.com/BrandonAlvarez1220/github-readme-stats)
 
+---
 
-------
-
-
-Last Edited on: 05/12/2023
+Last Edited on: 06/02/2025
